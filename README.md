@@ -29,8 +29,12 @@ devices. This aspect would require some more thinking and tips are welcome.
 
 ## design
 
-still working on this. but the app should have an accessible design, making it 
+The app should have an accessible design, making it 
 as easy to handle for the user as possible. 
+
+First draft of the design:
+
+![DesignFirstDraft](DesignFirstDraft.png)
 
 ## main features
 
